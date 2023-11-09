@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cs-hall
+- 👋 Hi, I’m @cs-hall, a graduate student at UVA in the Computational Memory Lab
 - 👀 I’m interested in computational neuroscience/psychology
 - 🌱 I’m currently learning lots of stuff with a focus on making python work for me
 
